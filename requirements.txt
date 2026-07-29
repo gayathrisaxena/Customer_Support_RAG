@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+rank-bm25
+pandas
+pypdf
+python-dotenv
+ollama
+markdown
+beautifulsoup4
