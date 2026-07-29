@@ -1,12 +1,11 @@
 streamlit
 langchain
 langchain-community
+langchain-core
+langchain-huggingface
+langchain-groq
 faiss-cpu
 sentence-transformers
 rank-bm25
-pandas
 pypdf
 python-dotenv
-ollama
-markdown
-beautifulsoup4
